@@ -1,0 +1,4 @@
+__pycache__/
+news-*.json
+news-*.csv
+.venv/
