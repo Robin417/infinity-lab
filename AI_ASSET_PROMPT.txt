@@ -1,0 +1,4 @@
+Tool: built-in image generation
+Reference: uploaded homepage screenshot (photographic mood only).
+Prompt: Create a photorealistic wide 16:9 website background image, no text or graphic overlays whatsoever. Reference the uploaded website screenshot for photographic mood only: an adult Korean woman with long dark hair in a rust orange blouse seated in a warm dim modern cafe, holding a small pastry near her mouth and looking down. Medium close up, woman centered slightly right, dark wood and espresso black interior, warm amber bokeh lamps on the right, soft shallow depth of field. Natural cinematic lifestyle photography, realistic anatomy, subtle film texture. This image is only the photo asset, never render the website, words, buttons, borders, UI, logos or watermarks.
+Asset: dist/assets/hero.webp
